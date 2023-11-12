@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWu3Y1M63ZPIHq16tk6H_btVFBsHWDNLx-WWuUIYepu4uLgTxwRAS_rOnoVfbKnunarqI&usqp=CAU
+https://contentstatic.techgig.com/photo/90325682.cms
 # C language Programs
 ***This repo contains C language programs for beginners chapterwise***
 
