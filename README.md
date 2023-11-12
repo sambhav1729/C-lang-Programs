@@ -1,4 +1,4 @@
-https://contentstatic.techgig.com/photo/90325682.cms
+![c logo](https://i.pinimg.com/originals/8d/da/53/8dda53ef87ba3fdc4848ec62ab66ea22.png)
 # C language Programs
 ***This repo contains C language programs for beginners chapterwise***
 
