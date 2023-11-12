@@ -1,4 +1,4 @@
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWu3Y1M63ZPIHq16tk6H_btVFBsHWDNLx-WWuUIYepu4uLgTxwRAS_rOnoVfbKnunarqI&usqp=CAU
 # C language Programs
 ***This repo contains C language programs for beginners chapterwise***
 
