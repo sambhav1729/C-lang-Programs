@@ -26,7 +26,7 @@ int main()
     }*/                   // will always remain true & loop executes indefinetly.
 
 
- /* An infinite while loop is created when the given condition is always true. It        is encountered by programmers in when:
+ /* An infinite while loop is created when the given condition is always true. It is encountered by programmers in when:
 
    # The test condition is incorrect.
    # Updation statement not present. */
